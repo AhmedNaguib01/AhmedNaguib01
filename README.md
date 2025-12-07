@@ -4,8 +4,8 @@ Founder & Community Lead @ Eduvance.</br>
 Passionate about Full-Stack, Mobile App Development, AI/Machine Learning, and System Engineering.</br>
 
 
-## 🌐 Socials:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201062796067) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naguib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amnoe20052007@gmail.com) 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naguib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amnoe20052007@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201062796067) 
 
 # 💻 Tech Stack:
 
