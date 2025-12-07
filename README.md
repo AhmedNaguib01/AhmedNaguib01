@@ -1,8 +1,7 @@
 # 💫 About Me:
 Computer & AI Engineering Student @ Ain Shams University & UEL.</br>
 Founder & Community Lead @ Eduvance.</br>
-Passionate about Full-Stack, Mobile App Development, and System Engineering.</br>
-Interested in Automation, Compilers, and Operating Systems.
+Passionate about Full-Stack, Mobile App Development, AI/Machine Learning, and System Engineering.</br>
 
 
 ## 🌐 Socials:
