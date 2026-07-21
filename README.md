@@ -1,46 +1,121 @@
-# 💫 About Me:
-Computer & AI Engineering Student @ Ain Shams University & UEL.</br>
-Founder & Community Lead @ Eduvance.</br>
-Passionate about Full-Stack, Mobile App Development, AI/Machine Learning, and System Engineering.</br>
+<h1 align="center">Ahmed Mohamed Naguib</h1>
 
+<p align="center">
+  <b>Backend & Full-Stack Developer · Computer & AI Engineering Student</b><br/>
+  Building scalable APIs, clean data models, and systems that hold up under load.
+</p>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-naguib-075415328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amnoe20052007@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201062796067) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-naguib-075415328/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:amnoe20052007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/+201062796067">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/AhmedNaguib01">
+    <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
+---
 
-#### Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+## 👋 About Me
 
-#### Web & Mobile Development:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+Computer & AI Engineering student at **Ain Shams University & the University of East London**, focused on backend engineering and full-stack development. I care about writing performant, well-structured systems — from RESTful APIs and normalized databases to OS-level memory management and concurrency.
 
-#### Databases & Cloud:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+- 🔭 **Backend Developer Intern** at OptimaTech, building scalable services and secure content delivery
+- 🌱 **Founder & Community Lead** at Eduvance, growing a student developer community
+- ⚙️ Comfortable across the stack: **Node.js / NestJS APIs**, **PostgreSQL & MongoDB**, and **C/C++ systems programming**
+- 🗣️ Arabic (Native) · English (Fluent)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(T--SQL)-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=nasm&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Web & Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=json&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_/_Web_Security-black?style=flat&logo=JSON%20web%20tokens)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-#### Tools & Platforms: 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+**Systems & Cloud**
 
+![OS Internals](https://img.shields.io/badge/OS_Internals-FCC624?style=flat&logo=linux&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP_Networking-1793D1?style=flat&logo=wireshark&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-5C2D91?style=flat&logo=gnu&logoColor=white)
+![GPIO/UART](https://img.shields.io/badge/GPIO%2FUART-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AhmedNaguib01&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+**Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![CMake](https://img.shields.io/badge/Make_/_CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![GDB](https://img.shields.io/badge/GCC_/_GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_/_Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Back End Developer Intern** — *OptimaTech for Technical Solutions* · Remote, Egypt
+- Architected scalable backend services and RESTful APIs with integrated **DRM video protection** for secure content delivery.
+- Optimized databases through **ERD-based normalization** and refined query execution plans, significantly reducing latency.
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Sc. Computer & Artificial Intelligence Engineering** — Ain Shams University & University of East London *(2023 – Present)*
+Algorithms · Operating Systems · Compilers · Databases · Data Structures · OOP · Artificial Intelligence · Computer Organization
+
+**Certifications**
+- 📱 [Mobile App Development Training](https://drive.google.com/file/d/1M6_mqh6OJC_hYcvZXmPiRWRiKIr01m6m/view?usp=sharing) — National Telecommunication Institute (NTI)
+- 🌐 [Full-Stack Web Development](http://ude.my/UC-7509fc90-187a-4a3f-bdeb-39839df833c2) — Udemy (React, Node.js, Express, PostgreSQL, REST APIs)
+
+---
+
+<!-- ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to backend, full-stack, and software engineering opportunities. Let's build something great.</i>
+</p> -->
