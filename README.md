@@ -90,12 +90,15 @@ Computer & AI Engineering student at **Ain Shams University & the University of 
 
 ## 💼 Experience
 
-**Back End Developer Intern** — *OptimaTech for Technical Solutions* · Remote, Egypt
+**Back End Developer Intern** — *OptimaTech for Technical Solutions* · Remote, Egypt 
+
 – Built the assessment engine on NestJS and GraphQL: migrated quizzes from a JSON-blob column to a normalized
 relational schema, then added atomic auto-grading that scores each attempt against its threshold, locks it, and
 triggers certificate issuance.
+
 – Removed per-ping database writes from video tracking by buffering player heartbeats through a Redis/BullMQ
 queue with a background upsert worker, sustaining **1,000 concurrent learners** with resumable cross-device playback.
+
 – Secured content and production: Firebase Storage rules verifying an active PostgreSQL enrollment before any video
 is served, anti-cheating session timers with JWT ownership checks, and a Railway/Cloudflare Workers deployment
 with exception filtering and health endpoints.
