@@ -91,8 +91,14 @@ Computer & AI Engineering student at **Ain Shams University & the University of 
 ## 💼 Experience
 
 **Back End Developer Intern** — *OptimaTech for Technical Solutions* · Remote, Egypt
-- Architected scalable backend services and RESTful APIs with integrated **DRM video protection** for secure content delivery.
-- Optimized databases through **ERD-based normalization** and refined query execution plans, significantly reducing latency.
+– Built the assessment engine on NestJS and GraphQL: migrated quizzes from a JSON-blob column to a normalized
+relational schema, then added atomic auto-grading that scores each attempt against its threshold, locks it, and
+triggers certificate issuance.
+– Removed per-ping database writes from video tracking by buffering player heartbeats through a Redis/BullMQ
+queue with a background upsert worker, sustaining **1,000 concurrent learners** with resumable cross-device playback.
+– Secured content and production: Firebase Storage rules verifying an active PostgreSQL enrollment before any video
+is served, anti-cheating session timers with JWT ownership checks, and a Railway/Cloudflare Workers deployment
+with exception filtering and health endpoints.
 
 ---
 
@@ -101,7 +107,7 @@ Computer & AI Engineering student at **Ain Shams University & the University of 
 **B.Sc. Computer & Artificial Intelligence Engineering** — Ain Shams University & University of East London *(2023 – Present)*
 Algorithms · Operating Systems · Compilers · Databases · Data Structures · OOP · Artificial Intelligence · Computer Organization
 
-**Certifications**
+**Certifications & Training**
 - 🌐 [Full-Stack Web Development](http://ude.my/UC-7509fc90-187a-4a3f-bdeb-39839df833c2) — Udemy (React, Node.js, Express, PostgreSQL, REST APIs)
 - 📱 [Mobile App Development Training](https://drive.google.com/file/d/1M6_mqh6OJC_hYcvZXmPiRWRiKIr01m6m/view?usp=sharing) — National Telecommunication Institute (NTI)
 - 🤖 [AI-Powered Digital Operations & Engineering Trainee](https://drive.google.com) — Coach Academy
