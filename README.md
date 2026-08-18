@@ -113,7 +113,7 @@ Algorithms · Operating Systems · Compilers · Databases · Data Structures · 
 **Certifications & Training**
 - 🌐 [Full-Stack Web Development](http://ude.my/UC-7509fc90-187a-4a3f-bdeb-39839df833c2) — Udemy (React, Node.js, Express, PostgreSQL, REST APIs)
 - 📱 [Mobile App Development Training](https://drive.google.com/file/d/1M6_mqh6OJC_hYcvZXmPiRWRiKIr01m6m/view?usp=sharing) — National Telecommunication Institute (NTI)
-- 🤖 [AI-Powered Digital Operations & Engineering Trainee]([https://drive.google.com](https://lms-app.coach-academy.net/credential-validation?credentialId=8I23PELBBMV46) — Coach Academy
+- 🤖 [AI-Powered Digital Operations & Engineering Trainee]([https://drive.google.com](https://lms-app.coach-academy.net/credential-validation?credentialId=8I23PELBBMV46)) — Coach Academy
 
 ---
 
