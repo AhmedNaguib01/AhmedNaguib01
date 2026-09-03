@@ -111,12 +111,12 @@ with exception filtering and health endpoints.
 Algorithms · Operating Systems · Compilers · Databases · Data Structures · OOP · Artificial Intelligence · Computer Organization
 
 **Certifications & Training**
-- ☁️ [AWS Cloud Solutions Architect](https://coursera.org/verify/professional-cert/9ABF95KTHYIM) — Coursera, AWS
-- ☁️ [AWS Fundamentals](https://coursera.org/verify/specialization/XQIRXH0SPXCS) — Coursera, AWS
-- 🌐 [Full-Stack Web Development](http://ude.my/UC-7509fc90-187a-4a3f-bdeb-39839df833c2) — Udemy (React, Node.js, Express, PostgreSQL, REST APIs)
-- 📱 [Mobile App Development Training](https://drive.google.com/file/d/1M6_mqh6OJC_hYcvZXmPiRWRiKIr01m6m/view?usp=sharing) — National Telecommunication Institute (NTI)
-- 🤖 [AI-Powered Digital Operations & Engineering Training](https://lms-app.coach-academy.net/credential-validation?credentialId=8I23PELBBMV46) — Coach Academy
-
+- ☁️ [AWS Cloud Solutions Architect](https://coursera.org/verify/professional-cert/9ABF95KTHYIM) — Coursera, AWS | Aug, 2026
+- ☁️ [AWS Fundamentals](https://coursera.org/verify/specialization/XQIRXH0SPXCS) — Coursera, AWS | Aug, 2026
+- 🤖 [AI-Powered Digital Operations & Engineering Training](https://lms-app.coach-academy.net/credential-validation?credentialId=8I23PELBBMV46) — Coach Academy | Aug, 2026
+- ⌨️ [Introduction to Git and GitHub](https://coursera.org/verify/04DUIYZN3ISN) — Coursera, Google | Sep, 2026
+- 🌐 [Full-Stack Web Development](http://ude.my/UC-7509fc90-187a-4a3f-bdeb-39839df833c2) — Udemy | Aug, 2025
+- 📱 [Mobile App Development Training](https://drive.google.com/file/d/1M6_mqh6OJC_hYcvZXmPiRWRiKIr01m6m/view?usp=sharing) — National Telecommunication Institute (NTI) | Aug, 2025
 ---
 
 <!-- ## 📊 GitHub Stats
