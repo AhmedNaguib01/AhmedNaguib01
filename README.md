@@ -1,11 +1,14 @@
 <h1 align="center">Ahmed Mohamed Naguib</h1>
 
 <p align="center">
-  <b>Backend & Full-Stack Developer · Computer & AI Engineering Student</b><br/>
-  Building scalable APIs, clean data models, and systems that hold up under load.
+  <b>Backend Developer · Computer & AI Engineering Student</b><br/>
+  Building production NestJS, GraphQL, PostgreSQL, and Redis services that hold up under load.
 </p>
 
 <p align="center">
+  <a href="https://ahmednaguib01.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/ahmed-naguib-075415328/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -15,20 +18,16 @@
   <a href="https://wa.me/+201062796067">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://github.com/AhmedNaguib01">
-    <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-Computer & AI Engineering student at **Ain Shams University & the University of East London**, focused on backend engineering and full-stack development. I care about writing performant, well-structured systems — from RESTful APIs and normalized databases to OS-level memory management and concurrency.
-
-- 🔭 **Backend Developer Intern** at OptimaTech, building scalable services and secure content delivery
-- 🌱 **Founder & Community Lead** at Eduvance, growing a student developer community
-- ⚙️ Comfortable across the stack: **Node.js / NestJS APIs**, **PostgreSQL & MongoDB**, and **C/C++ systems programming**
+- 🔭 **Back End Developer** at OptimaTech, building NestJS/GraphQL services that track and secure video for **1,000+ concurrent learners**
+- 🌱 **Founder** of [Eduvance](https://www.eduvance.au/), a free student community with **20,000+ Discord members**
+- ☁️ AWS Cloud Solutions Architect Professional Certificate
+- 🎯 Open to **backend, full-stack, cloud, and DevOps** roles
 - 🗣️ Arabic (Native) · English (Fluent)
 
 ---
@@ -37,85 +36,72 @@ Computer & AI Engineering student at **Ain Shams University & the University of 
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C_/_C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=dotnet&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_(T--SQL)-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=nasm&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_/_PL%2FSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
-**Web & Backend**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=json&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_/_Web_Security-black?style=flat&logo=JSON%20web%20tokens)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL_/_REST-E10098?style=flat&logo=graphql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat&logo=redis&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Auth](https://img.shields.io/badge/JWT_/_OAuth_2.0_/_RBAC-black?style=flat&logo=JSON%20web%20tokens)
+
+**Frontend & Mobile**
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL_/_APEX-F80000?style=flat&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
 
-**Systems & Cloud**
+**Cloud & DevOps**
 
-![OS Internals](https://img.shields.io/badge/OS_Internals-FCC624?style=flat&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP_Networking-1793D1?style=flat&logo=wireshark&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading-5C2D91?style=flat&logo=gnu&logoColor=white)
-![GPIO/UART](https://img.shields.io/badge/GPIO%2FUART-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflareworkers&logoColor=white)
 
-**Tools & Practices**
+**AI & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/NumPy_/_pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![CMake](https://img.shields.io/badge/Make_/_CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![GDB](https://img.shields.io/badge/GCC_/_GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_/_Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-**Back End Developer Intern** — *OptimaTech for Technical Solutions* · Remote, Egypt
-- Architected scalable backend services and RESTful APIs with integrated **DRM video protection** for secure content delivery.
-- Optimized databases through **ERD-based normalization** and refined query execution plans, significantly reducing latency.
-
----
-
-## 🎓 Education & Certifications
-
-**B.Sc. Computer & Artificial Intelligence Engineering** — Ain Shams University & University of East London *(2023 – Present)*
-Algorithms · Operating Systems · Compilers · Databases · Data Structures · OOP · Artificial Intelligence · Computer Organization
-
-**Certifications**
-- 📱 [Mobile App Development Training](https://drive.google.com/file/d/1M6_mqh6OJC_hYcvZXmPiRWRiKIr01m6m/view?usp=sharing) — National Telecommunication Institute (NTI)
-- 🌐 [Full-Stack Web Development](http://ude.my/UC-7509fc90-187a-4a3f-bdeb-39839df833c2) — Udemy (React, Node.js, Express, PostgreSQL, REST APIs)
-
----
-
-<!-- ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to backend, full-stack, and software engineering opportunities. Let's build something great.</i>
-</p> -->
+- **[Inventory Command](https://github.com/AhmedNaguib01/Sales-and-Inventory-Management-System)** ([live](https://sales-and-inventory-management-syst-six.vercel.app)): multi-branch POS and inventory system with role-based access control (RBAC), PostgreSQL row-level security, and atomic stock transactions
+- **[Reddit Replica](https://github.com/AhmedNaguib01/Reddit-Replica)** ([live](https://reddit-replica-asu.vercel.app/)): REST API with 61 endpoints, Google OAuth, and serverless deployment on Vercel
+- **[EduVerse](https://github.com/AhmedNaguib01/University-Management-System)**: university management system built by a six-person team, with MongoDB analytics reports
